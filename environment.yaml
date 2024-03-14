@@ -3,7 +3,6 @@ channels:
   - pyg
   - pytorch
   - conda-forge
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
