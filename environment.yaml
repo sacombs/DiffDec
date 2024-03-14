@@ -1,7 +1,7 @@
+name: DiffDec
 channels:
   - pyg
   - pytorch
-  - anaconda
   - conda-forge
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
   - defaults
@@ -96,12 +96,6 @@ dependencies:
   - jpeg=9e=h166bdaf_1
   - json-c=0.16=hc379101_0
   - jsonschema=4.4.0=py310h06a4308_0
-  - jupyter=1.0.0=py310h06a4308_7
-  - jupyter_client=7.2.2=py310h06a4308_0
-  - jupyter_console=6.4.3=pyhd3eb1b0_0
-  - jupyter_core=4.10.0=py310h06a4308_0
-  - jupyterlab_pygments=0.1.2=py_0
-  - jupyterlab_widgets=1.0.0=pyhd3eb1b0_1
   - keyutils=1.6.1=h166bdaf_0
   - kiwisolver=1.4.2=py310hbf28c38_1
   - krb5=1.19.3=h3790be6_0
